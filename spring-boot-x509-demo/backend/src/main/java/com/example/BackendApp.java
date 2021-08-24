@@ -9,7 +9,7 @@ public class BackendApp {
     public static void main(String[] args) {
 
         // Install Spiffe Provider
-        SpiffeProvider.install();
+        // SpiffeProvider.install();
 
         SpringApplication.run(BackendApp.class, args);
     }

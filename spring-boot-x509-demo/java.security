@@ -1,4 +1,4 @@
-#
+security.provider.11=io.spiffe.provider.SpiffeProvider
 # Determines the default key and trust manager factory algorithms for
 # the javax.net.ssl package.
 #
